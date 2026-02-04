@@ -1,26 +1,13 @@
-# Welcome to your Jupyter Book
+# Machine Learning Introduction Workshop (UPRM)
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Welcome! This Jupyter Book contains the material for our **Machine Learning Introduction Workshop**.
 
-:::{note}
-Here is a note!
-:::
+## Quick start
+- Read **How to Write and Publish a Book** (we’ll rename this soon)
+- Run the notebooks locally or in Colab
+- Use the sidebar to navigate
 
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more examples.
-
-You can also add figures to your book.
-
-:::{figure} https://assets.gishub.org/images/book-cover.png
-:label: gispro-book-cover
-:alt: GISPro Book Cover
-:align: center
-
-GIS Programming with Python Book Cover.
-:::
+## Goals
+- Understand core ML concepts (data, models, training, evaluation)
+- Get hands-on practice with Python + notebooks
+- Leave with reusable templates for future projects
