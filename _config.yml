@@ -44,7 +44,7 @@ repository:
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   favicon: "fav.ico"
-  baseurl: https://github.com/iliomar/ML-workshop-2026 # The base URL where your book will be hosted.
+  baseurl: "https://iliomar.github.io/ML-workshop-2026/" # The base URL where your book will be hosted.
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: true
