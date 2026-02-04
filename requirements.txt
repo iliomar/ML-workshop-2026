@@ -1,7 +1,5 @@
+jupyter-book==0.15.1
 ghp-import
-jupyter-book
 jupyterlab
-jupytext
 matplotlib
-mystmd
 numpy
