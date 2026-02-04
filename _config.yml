@@ -44,7 +44,7 @@ repository:
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   favicon: "fav.ico"
-  baseurl: https://giswqs.github.io/jupyter-book-demo # The base URL where your book will be hosted.
+  baseurl: https://github.com/iliomar/ML-workshop-2026 # The base URL where your book will be hosted.
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: true
@@ -56,7 +56,7 @@ sphinx:
     # html_extra_path: ["CNAME", "robots.txt"]
     html_theme_options:
       use_download_button: true
-      repository_url: https://github.com/giswqs/jupyter-book-demo
+      repository_url: https://github.com/iliomar/ML-workshop-2026
       repository_branch: main # Specify the correct branch for theme options
       use_issues_button: true
       use_repository_button: true
