@@ -5,17 +5,17 @@ jupytext:
     format_name: myst
     format_version: 0.13
     jupytext_version: 1.18.1
-title: How to Write and Publish a Book
+title: Machine Learning Modules
 subtitle: Using Jupyter Book to Write and Publish a Book
 authors:
-  - name: Qiusheng Wu
+  - name: Iliomar Rodriguez Ramos and Juvenal Bassa
     affiliations:
-      - University of Tennessee
-    orcid: 0000-0001-5437-4073
-    email: qwu18@utk.edu
+      - University of Puerto Rico at Mayagüez
+    orcid: 0000-0002-3764-1798
+    email: iliomar.rodriguez@upr.edu
 license: CC-BY-4.0
 abstract: |
-  This tutorial introduces how to write and publish a book using Jupyter Book.
+  This tutorial introduces the basics of Machine Learning. We are first going to do a review on Python for ML.
 exports:
   - format: docx
   - format: pdf

@@ -5,17 +5,17 @@ jupytext:
     format_name: myst
     format_version: 0.13
     jupytext_version: 1.18.1
-title: Introduction to Open Publishing
-subtitle: Using Jupyter Book for Open Publishing
+title: Introduction to Python & Data Foundations
+subtitle: Introduction to Python
 authors:
-  - name: Qiusheng Wu
+  - name: Iliomar Rodriguez Ramos & Juvenal Bassa
     affiliations:
-      - University of Tennessee
+      - University of Puerto Rico at Mayagüez
     orcid: 0000-0001-5437-4073
-    email: qwu18@utk.edu
+    email: iliomar.rodriguez@upr.edu
 license: CC-BY-4.0
 abstract: |
-  This tutorial introduces open publishing techniques using Jupyter Book and demonstrates how to effectively publish your research.
+  In process...
 exports:
   - format: docx
   - format: pdf
