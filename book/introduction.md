@@ -23,7 +23,7 @@ exports:
     template: lapreprint-typst
 ---
 
-# How to Write and Publish a Book
+# Machine Learning Modules
 
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
 in regular markdown files (`.md`), you'll write in the same flavor of markdown
