@@ -24,7 +24,7 @@ jobs:
 
       - name: Build the book
         run: |
-          jupyter-book build .
+          jupyter-book build book/
           touch _build/html/.nojekyll
 
       - name: Deploy to gh-pages
