@@ -24,12 +24,12 @@ jobs:
 
       - name: Build the book
         run: |
-          jupyter-book build book/
+          jupyter-book build .
           touch _build/html/.nojekyll
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./book/_build/html
+          publish_dir: ./_build/html
           force_orphan: true
