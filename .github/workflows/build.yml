@@ -28,4 +28,4 @@ jobs:
       # Build the book
       - name: Build the book
         run: |
-          jupyter-book build .
+          jupyter-book build book/
