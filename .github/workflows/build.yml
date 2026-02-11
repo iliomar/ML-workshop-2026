@@ -28,4 +28,5 @@ jobs:
       # Build the book
       - name: Build the book
         run: |
-          jupyter-book build book/
+          jupyter-book build .
+          touch _build/html/.nojekyll
