@@ -1,4 +1,4 @@
-jupyter-book==0.15.1
+jupyter-book==2.1.2
 ghp-import
 jupyterlab
 matplotlib
